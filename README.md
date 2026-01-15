@@ -5,7 +5,7 @@ This project implements a simple Python-based LLM bot that takes a Python error 
 
 ## 1️⃣ Notebook with Working Code
 
-The notebook `06a-small-project-code-explainer-bot.ipynb` was set up for this project. It contains different sections:
+The notebook `code-explainer-bot.ipynb` was set up for this project. It contains different sections:
 
 | Section                        | Description                                                                                                             |
 | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
