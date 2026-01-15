@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# large (all) files within any data folders
+**/data/*.txt
+**/data/*.kv
+**/data/*.npy
+
+.env
